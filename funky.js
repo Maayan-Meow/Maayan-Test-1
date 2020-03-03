@@ -1,3 +1,3 @@
-function func (){
-	console.log("hello world");
+function func() {
+  console.log("hello world!!");
 }
